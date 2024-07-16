@@ -1,7 +1,5 @@
 ### Hi there, I'm Ednilson Monteiro 👋
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning React
 - 📫 How to reach me: ednilsonm.profissional@gmail.com
 - 😄 Pronouns: He/Him
 
