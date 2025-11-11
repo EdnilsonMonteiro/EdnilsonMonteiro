@@ -1,7 +1,6 @@
 ### Hi there, I'm Ednilson Monteiro 👋
 
 - 📫 How to reach me: ednilsonm.profissional@gmail.com
-- 😄 Pronouns: He/Him
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
